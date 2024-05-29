@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Cella"],"struct":["CampoGioco","Posizione"]};

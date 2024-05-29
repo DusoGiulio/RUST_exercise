@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["cfg_if","esercizio3_game","getrandom","ppv_lite86","rand","rand_chacha","rand_core","zerocopy"];

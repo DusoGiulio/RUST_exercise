@@ -1,0 +1,1 @@
+C:\Users\Giulio\RustroverProjects\esercizio5\target\debug\esercizio5.exe: C:\Users\Giulio\RustroverProjects\esercizio5\src\conto_bancario.rs C:\Users\Giulio\RustroverProjects\esercizio5\src\lib.rs C:\Users\Giulio\RustroverProjects\esercizio5\src\main.rs C:\Users\Giulio\RustroverProjects\esercizio5\src\stati.rs

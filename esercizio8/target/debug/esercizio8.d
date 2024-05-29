@@ -1,0 +1,1 @@
+C:\Users\Giulio\RustroverProjects\esercizio8\target\debug\esercizio8.exe: C:\Users\Giulio\RustroverProjects\esercizio8\src\lib.rs C:\Users\Giulio\RustroverProjects\esercizio8\src\main.rs C:\Users\Giulio\RustroverProjects\esercizio8\src\numero_vocali.rs
